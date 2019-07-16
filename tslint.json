@@ -6,10 +6,10 @@
     "jsRules": {},
     "rules": {
       "quotemark": [
-					true,
-					"single"
-			],
-			"no-console": false
+	true,
+	"single"
+      ],
+    "no-console": false
     },
     "rulesDirectory": []
 }
